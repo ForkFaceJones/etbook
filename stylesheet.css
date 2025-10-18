@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Bembo Expert BQ';
+    src: url('BemboExpertBQ-BoldOsF.woff2') format('woff2'),
+        url('BemboExpertBQ-BoldOsF.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ETBembo';
+    src: url('ETBembo-RomanOSF.woff2') format('woff2'),
+        url('ETBembo-RomanOSF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ETBembo';
+    src: url('ETBembo-DisplayItalic.woff2') format('woff2'),
+        url('ETBembo-DisplayItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ETBembo';
+    src: url('ETBembo-RomanLF.woff2') format('woff2'),
+        url('ETBembo-RomanLF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ETBembo';
+    src: url('ETBembo-SemiBoldOSF.woff2') format('woff2'),
+        url('ETBembo-SemiBoldOSF.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ETBembo';
+    src: url('ETBembo-BoldLF.woff2') format('woff2'),
+        url('ETBembo-BoldLF.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A Day Without Sun Text Trial';
+    src: url('ADayWithoutSunTextTrial-Italic.woff2') format('woff2'),
+        url('ADayWithoutSunTextTrial-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A Day Without Sun Trial';
+    src: url('ADayWithoutSunTrial-Italic.woff2') format('woff2'),
+        url('ADayWithoutSunTrial-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A Day Without Sun Text Trial';
+    src: url('ADayWithoutSunTextTrial-Bold.woff2') format('woff2'),
+        url('ADayWithoutSunTextTrial-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A Day Without Sun Trial';
+    src: url('ADayWithoutSunTrial-Regular.woff2') format('woff2'),
+        url('ADayWithoutSunTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A Day Without Sun Text Trial';
+    src: url('ADayWithoutSunTextTrial-BoldItalic.woff2') format('woff2'),
+        url('ADayWithoutSunTextTrial-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A Day Without Sun Text Trial';
+    src: url('ADayWithoutSunTextTrial-Regular.woff2') format('woff2'),
+        url('ADayWithoutSunTextTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bemock';
+    src: url('Bemock-Regular.woff2') format('woff2'),
+        url('Bemock-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gedhibold';
+    src: url('Gedhibold.woff2') format('woff2'),
+        url('Gedhibold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
